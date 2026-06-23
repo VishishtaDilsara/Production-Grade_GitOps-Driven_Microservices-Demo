@@ -14,35 +14,34 @@ spec:
 
       images:
         - alias: adservice
-          imageName: ghcr.io/laxmikantagiri/microservices-demo/adservice
+          imageName: ghcr.io/vishishtadilsara/production-grade_gitops-driven_microservices-demo/adservice
 
         - alias: cartservice
-          imageName: ghcr.io/laxmikantagiri/microservices-demo/cartservice
+          imageName: ghcr.io/vishishtadilsara/production-grade_gitops-driven_microservices-demo/cartservice
 
         - alias: checkoutservice
-          imageName: ghcr.io/laxmikantagiri/microservices-demo/checkoutservice
+          imageName: ghcr.io/vishishtadilsara/production-grade_gitops-driven_microservices-demo/checkoutservice
 
         - alias: currencyservice
-          imageName: ghcr.io/laxmikantagiri/microservices-demo/currencyservice
+          imageName: ghcr.io/vishishtadilsara/production-grade_gitops-driven_microservices-demo/currencyservice
 
         - alias: emailservice
-          imageName: ghcr.io/laxmikantagiri/microservices-demo/emailservice
+          imageName: ghcr.io/vishishtadilsara/production-grade_gitops-driven_microservices-demo/emailservice
 
         - alias: frontend
-          imageName: ghcr.io/laxmikantagiri/microservices-demo/frontend
+          imageName: ghcr.io/vishishtadilsara/production-grade_gitops-driven_microservices-demo/frontend
 
         - alias: paymentservice
-          imageName: ghcr.io/laxmikantagiri/microservices-demo/paymentservice
+          imageName: ghcr.io/vishishtadilsara/production-grade_gitops-driven_microservices-demo/paymentservice
 
         - alias: productcatalogservice
-          imageName: ghcr.io/laxmikantagiri/microservices-demo/productcatalogservice
+          imageName: ghcr.io/vishishtadilsara/production-grade_gitops-driven_microservices-demo/productcatalogservice
 
         - alias: recommendationservice
-          imageName: ghcr.io/laxmikantagiri/microservices-demo/recommendationservice
+          imageName: ghcr.io/vishishtadilsara/production-grade_gitops-driven_microservices-demo/recommendationservice
 
         - alias: shippingservice
-          imageName: ghcr.io/laxmikantagiri/microservices-demo/shippingservice
+          imageName: ghcr.io/vishishtadilsara/production-grade_gitops-driven_microservices-demo/shippingservice
 
         - alias: loadgenerator
-          imageName: ghcr.io/laxmikantagiri/microservices-demo/loadgenerator
-
+          imageName: ghcr.io/vishishtadilsara/production-grade_gitops-driven_microservices-demo/loadgenerator

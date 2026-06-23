@@ -9,3 +9,5 @@ Run the following command to restore dependencies to `vendor/` directory:
 # This is another comment
 
 # CI test after trivy fix
+
+# This is a comment

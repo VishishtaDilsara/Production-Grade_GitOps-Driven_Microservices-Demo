@@ -293,7 +293,7 @@ There is **NO dedicated “orders database”**.
 Clone the repo:
 
 ```bash
-https://github.com/laxmikantagiri/Production-Grade_GitOps-Driven_Microservices-Demo.git
+https://github.com/VishishtaDilsara/Production-Grade_GitOps-Driven_Microservices-Demo.git
 ```
 
 chnage directory to terraform:
